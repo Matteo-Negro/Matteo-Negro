@@ -12,6 +12,11 @@
 - 🌱 I’m currently specializing in Artificial Intelligence at Politecnico di Milano and Universiity of Illinois Chicago (Computer Science - A.I. track) 
 - 📫 You can contact me through <a href="https://www.linkedin.com/in/negro-matteo">LinkedIn</a> or by dropping me an <a href="mailto:matteonegro.dev@gamil.com">email</a>
 
+<h1>
+  :fire:
+  Contributions
+</h1> 
+
 ![GitHub Snake Light](https://github.com/matteo-negro/matteo-negro/blob/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/matteo-negro/matteo-negro/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
