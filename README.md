@@ -8,7 +8,7 @@
 </div>
 
 - 👋 Hi, I’m @matteo-negro
-- 👀 I’m interested in Artificial Intelligence, Machine Learning and them applications
+- 👀 I’m interested in Artificial Intelligence, Machine Learning and their applications
 - 🌱 I’m currently specializing in Artificial Intelligence at Politecnico di Milano and Universiity of Illinois Chicago (Computer Science - A.I. track) 
 - 📫 You can contact me through <a href="https://www.linkedin.com/in/negro-matteo">LinkedIn</a> or by dropping me an <a href="mailto:matteonegro.dev@gamil.com">email</a>
 
