@@ -18,8 +18,9 @@
   Contributions
 </h1> 
 
-![GitHub Snake Light](https://github.com/matteo-negro/matteo-negro/blob/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/matteo-negro/matteo-negro/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/Matteo-Negro/Matteo-Negro/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/Matteo-Negro/Matteo-Negro/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 <h1>
   :fire:
